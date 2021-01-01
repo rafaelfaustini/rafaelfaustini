@@ -1,4 +1,4 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rafaelfaustini&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rafaelfaustini&title_color=ff1744&icon_color=f05545&text_color=fff&bg_color=424242&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on 2tech systems
 - 🌱 I’m currently learning machine learning (tensorflow), sass, vue
