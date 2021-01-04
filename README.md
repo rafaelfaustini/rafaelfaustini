@@ -6,5 +6,5 @@
 - 📄 Publishing a paper about [Machine Learning for Alzheimer patients](https://arxiv.org/abs/2012.12987) (Preprint available)
 - 📫 How to reach me: contato@rafaelfaustini.com.br
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfaustini&layout=compact&theme=material-palenight&langs_count=10&hide=HTML&layout=compact"/></p>
+## Programming language distribution in my profile (Updated 2020-01-04, click on the picture to see in real-time)
+[![Programming languages distribution in rafaelfaustini's profile](https://i.imgur.com/NvUdU0Q.jpg)](http://ionicabizau.github.io/github-profile-languages/?user=rafaelfaustini)
