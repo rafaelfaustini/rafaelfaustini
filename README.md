@@ -6,5 +6,5 @@
 - 📄 Publishing a paper about [Machine Learning for Alzheimer patients](https://arxiv.org/abs/2012.12987) (Preprint available)
 - 📫 How to reach me: contato@rafaelfaustini.com.br
 
-## Programming language distribution in my profile (Updated 2020-01-04, click on the picture to see in real-time)
+## Programming language distribution in my profile (Updated 2020-01-04, click on the picture to see it in real-time)
 [![Programming languages distribution in rafaelfaustini's profile](https://i.imgur.com/NvUdU0Q.jpg)](http://ionicabizau.github.io/github-profile-languages/?user=rafaelfaustini)
