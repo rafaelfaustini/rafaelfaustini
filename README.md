@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 2tech systems
 - 🌱 I’m currently learning machine learning (tensorflow), sass, vue
-- 📄 Publishing a paper about [Machine Learning for Alzheimer patients](https://arxiv.org/abs/2012.12987) (Preprint available)
+- 📄 Author of the paper [Convolutional Neural Network for Elderly Wandering Prediction in Indoor Scenarios](https://www.scitepress.org/Link.aspx?doi=10.5220/0010379902530260) published on the  14th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF
 - 📫 How to reach me: contato@rafaelfaustini.com.br
 
 ## Programming language distribution in my profile (Updated 2020-01-04, click on the picture to see it in real-time)
